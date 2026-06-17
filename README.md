@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Souvik Kar
 - 👀 I’m interested in Fishes, coins, Animes, Mangas, Manhwas and Games!
-- 🌱 I’m currently learning Computer Science and Technology
+- 🌱 I’m currently learning Computer Science and Technology.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can move my eyebrows up and down one at a time👀
 
